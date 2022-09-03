@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-FXhiHZ2GYp)](https://www.frontendmentor.io/solutions/order-summary-FXhiHZ2GYp)
-- Live Site URL: [[Add live site URL here](https://brownbearcodes.github.io/order-summary/)](https://brownbearcodes.github.io/order-summary/)
+- [[Solution](https://www.frontendmentor.io/solutions/order-summary-FXhiHZ2GYp)](https://www.frontendmentor.io/solutions/order-summary-FXhiHZ2GYp)
+- [[Live site URL](https://brownbearcodes.github.io/order-summary/)](https://brownbearcodes.github.io/order-summary/)
 
 ## My process
 
